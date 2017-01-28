@@ -1,0 +1,14 @@
+{
+  "name": "ja",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "karma start ./karma.conf.js"
+  },
+  "author": "Paul James Millar",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "karma-requirejs": "^1.1.0"
+  }
+}
