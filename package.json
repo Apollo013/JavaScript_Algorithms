@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "karma-requirejs": "^1.1.0"
+    "karma-requirejs": "^1.1.0",
+    "require": "^2.4.20"
   }
 }

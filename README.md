@@ -8,7 +8,7 @@ Developed with Visual Studio Code
 |Tech|
 |----|
 |JavaScript|
-|Node|
+|Node.js|
 |Karma|
 |Jasmine|
 
