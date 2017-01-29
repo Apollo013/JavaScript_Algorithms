@@ -19,6 +19,7 @@ Developed with Visual Studio Code
 |---------|----------|
 |[Arithmetic Sequence](http://www.codewars.com/kata/arithmetic-sequence/train/javascript)| [Here](https://github.com/Apollo013/JavaScript_Algorithms/blob/master/codewars/aritmetic-sequence-spec.js) |
 |[Sum of Sequence](http://www.codewars.com/kata/sum-of-a-sequence/train/javascript)| [Here](https://github.com/Apollo013/JavaScript_Algorithms/blob/master/codewars/sum-of-a-sequence-spec.js) |
+|[Tortoise Race](http://www.codewars.com/kata/tortoise-racing/train/javascript)|
 
 ---
 
