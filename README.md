@@ -23,7 +23,6 @@ Developed with Visual Studio Code
 
 ---
 
-
 ###Misc => Arrays
 | Problem | Solution |
 |---------|----------|
